@@ -1,6 +1,5 @@
 # Website-modules
 Contains modules for user interaction with a website.
-
 Details:
 
 	FILES:
@@ -15,5 +14,5 @@ Details:
 	DATABASE:
 		 names: user database id,name,password
 		 sheet1: details
-		 
 		
+NOTE:(modules were designed for a foodchain startup website, necessary ammendments are to be made to reuse)
