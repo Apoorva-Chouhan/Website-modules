@@ -15,4 +15,4 @@ Details:
 		 names: user database id,name,password
 		 sheet1: details
 		
-NOTE:(modules were designed for a foodchain startup website, necessary ammendments are to be made to reuse)
+NOTE:(modules were designed for a foodchain startup website)
